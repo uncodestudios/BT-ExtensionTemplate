@@ -5,6 +5,12 @@ It demonstrates best practices for code organization, event subscription, and cl
 
 If you want a plain empty extension template, it's inside the **EmptyTemplate** folder. The **Template** folder contains template code to give you a usage idea.
 
+> [!NOTE]  
+> Internally, we use a custom IDE with built-in IntelliSense and full API autocomplete for scripting Lua extensions.  
+> This IDE is not yet publicly available, but will be released in the near future.  
+>  
+> **For now, please refer to the API docs located near the bottom of the page to discover available functions and usage.**
+
 ---
 
 ## 📁 Structure (Template)
