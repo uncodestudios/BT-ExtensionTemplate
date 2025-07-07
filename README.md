@@ -7,13 +7,21 @@ If you want a plain empty extension template, it's inside the **EmptyTemplate** 
 
 ---
 
-## 📁 Structure
+## 📁 Structure (Template)
 
 ```
 TemplateExtension/
 ├── main.lua                # Main extension code
 ├── Callbacks/
 │   └── Callbacks.lua       # Event callback functions
+└── TemplateExtension.config # Extension configuration
+```
+
+## 📁 Structure (EmptyTemplate)
+
+```
+TemplateExtension/
+├── main.lua                # Main extension code
 └── TemplateExtension.config # Extension configuration
 ```
 
